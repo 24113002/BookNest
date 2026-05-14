@@ -1,0 +1,30 @@
+.navbar{
+display:flex;
+ justify-content: space-between; /* Pushes to opposite corners */
+  align-items: center;  
+background-color: #333;
+  color: white;
+ 
+}
+body{
+    background-color:#f5f5f5;
+    color:#333;
+}
+.navlinks{
+display:flex;
+align:right;
+gap:10px;
+}
+.Budget{
+display:flex;
+
+justify-content: space-between;
+}
+h2{ padding:20px;
+text-align:center;
+font-size:18px;
+}
+h1{
+    color:#ffd60a;
+padding-left:10px;
+}
